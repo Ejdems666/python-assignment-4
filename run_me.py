@@ -20,7 +20,7 @@ def run():
 
 
 def print_question_separator(question_number):
-    print('\nQuestion ' + str(question_number), end='\n' + 100 * '-' + '\n')˚
+    print('\nQuestion ' + str(question_number), end='\n' + 100 * '-' + '\n')
 
 
 run()
