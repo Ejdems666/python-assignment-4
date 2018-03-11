@@ -19,7 +19,7 @@ def print_teams_in_order(data):
     base_indentation = 40
     for team_name, worth in data:
         calculated_indentation = base_indentation - len(team_name)
-        print(i, team_name, calculated_indentation * ".", worth,'Eur')
+        print(i, team_name, calculated_indentation * ".", format(worth, ','),'Eur')
         i += 1
 
 
