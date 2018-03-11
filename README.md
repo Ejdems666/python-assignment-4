@@ -38,3 +38,11 @@ The nationality with the most players was: "England" with a total count of 1631 
     8. Toni Kroos ............................. 83,000,000.0 Eur
     9. Paulo Dybala ........................... 57,300,000.0 Eur
     10. Gonzalo Higuaín ....................... 50,100,000.0 Eur
+
+## Q4
+
+## Q5 Average difference between value and wage of players
+
+The average difference between value and wage was: "2359007.45" with average value being: 2370511.28 and average wage being: 11503.83.
+
+
