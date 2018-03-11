@@ -1,6 +1,7 @@
 import question1
 import question2
 import question3
+import question5
 from file_handler import download_csv_sheet
 
 
@@ -17,6 +18,9 @@ def run():
 
         print_question_separator('3. Difference between worth and release clause of top 10 valuable players')
         question3.run(f)
+
+        print_question_separator('5. Average difference between value and wage of players')
+        question5.run(f)
 
 
 def print_question_separator(question_number):
