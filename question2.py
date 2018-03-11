@@ -2,8 +2,7 @@ from common_functions import get_csv_reader
 
 
 def run(f):
-    ethnicity_sums = sum_nationality(f)
-    result = find_biggest_sum_in_dict(ethnicity_sums)
+    result = find_biggest_sum_in_dict(sum_nationality(f))
     print('The nationality with the most players was: "' + result['name'].lower().capitalize() +
           '" with a total count of ' + str(result['sum']) + ' players.')
 
