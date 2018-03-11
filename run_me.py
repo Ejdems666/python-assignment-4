@@ -10,5 +10,5 @@ csv_sheet_name = "data.csv"
 url = "https://raw.githubusercontent.com/INFINITE-KH/Python-Dataset/master/complete.csv"
 download_csv_sheet(csv_sheet_name, url)
 with open(csv_sheet_name, encoding='utf-8') as f:
-    print_question_separator(1)
+    print_question_separator("1. Richest and poorest teams by cumulative player worth")
     question1.run(f)

@@ -10,14 +10,14 @@ Success Impossible
 
 # Awnsers
 
-## Q1
+## Q1 Richest and poorest teams by cumulative player worth
 
 Richest teams:
-  1. Real Madrid CF .......................... 828900000.0
-  2. FC Bayern Munich ........................ 741450000.0
-  3. FC Barcelona ............................ 737500000.0
+  1. Real Madrid CF .......................... 828900000.0 Eur
+  2. FC Bayern Munich ........................ 741450000.0 Eur
+  3. FC Barcelona ............................ 737500000.0 Eur
 
 Poorest teams:
-  1. Drogheda United ......................... 2580000.0
-  2. Limerick FC ............................. 2480000.0
-  3. Bray Wanderers .......................... 2360000.0
+  1. Drogheda United ......................... 2580000.0 Eur
+  2. Limerick FC ............................. 2480000.0 Eur
+  3. Bray Wanderers .......................... 2360000.0 Eur

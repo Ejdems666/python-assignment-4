@@ -11,7 +11,7 @@ def run(f):
     print_teams_in_order(richest_teams)
 
     poorest_teams = sorted_data[len(sorted_data) - 3:]
-    print("Poorest teams:")
+    print("\nPoorest teams:")
     print_teams_in_order(poorest_teams)
 
 def print_teams_in_order(data):
@@ -19,7 +19,7 @@ def print_teams_in_order(data):
     base_indentation = 40
     for team_name, worth in data:
         calculated_indentation = base_indentation - len(team_name)
-        print(i, team_name, calculated_indentation * ".", worth)
+        print(i, team_name, calculated_indentation * ".", worth,'Eur')
         i += 1
 
 
