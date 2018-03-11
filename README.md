@@ -22,6 +22,10 @@ Poorest teams:
     2. Limerick FC ............................ 2,480,000.0 Eur
     3. Bray Wanderers ......................... 2,360,000.0 Eur
 
+## Q2 Nationality with most players
+
+The nationality with the most players was: "England" with a total count of 1631 players.
+
 ## Q3 Difference between worth and release clause of top 10 valuable players
 
     1. Neymar da Silva Santos Jr. ............. 113,800,000.0 Eur
