@@ -15,7 +15,7 @@ with open(csv_sheet_name, encoding='utf-8') as f:
     print_question_separator('1. Richest and poorest teams by cumulative player worth')
     question1.run(f)
 
-    print_question_separator("2. Nationality with most players")
+    print_question_separator('2. Nationality with most players')
     question2.run(f)
 
     print_question_separator('3. Difference between worth and release clause of top 10 valuable players')
