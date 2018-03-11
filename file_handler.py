@@ -1,7 +1,7 @@
-import csv
-import requests
 import os.path
 import shutil
+
+import requests
 
 
 def download_file(file_name, url):

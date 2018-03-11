@@ -1,5 +1,6 @@
-from common_functions import get_csv_reader
 import operator
+
+from common_functions import get_csv_reader
 
 
 def run(f):
